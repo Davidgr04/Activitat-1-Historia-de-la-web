@@ -11,4 +11,4 @@
 
 | SOPA | Blink | 1 Billon Websites |
 | :---: | :---: | :---: |
-| ![imagen](https://www.mercurynews.com/wp-content/uploads/2016/08/20160114__p_e53382b8-e9cc-43c5-8136-01c87a0fa1felsoriginalph.jpg?w=480) | ![imagen](https://upload.wikimedia.org/wikipedia/commons/f/fe/Chromium_Material_Icon.svg) | ![imagen](https://blog.sosafeapp.com/content/images/2020/09/1-million.png) |
+| ![imagen](https://www.mercurynews.com/wp-content/uploads/2016/08/20160114__p_e53382b8-e9cc-43c5-8136-01c87a0fa1felsoriginalph.jpg?w=480) | ![imagen](https://upload.wikimedia.org/wikipedia/commons/f/fe/Chromium_Material_Icon.svg) | ![imagen](http://4.bp.blogspot.com/_QMMNMQj0KGk/S2GKPTR7BpI/AAAAAAAAQmI/PFXH4oUWQSk/s320/cuantos-ceros-tiene-trillon.jpg) |
